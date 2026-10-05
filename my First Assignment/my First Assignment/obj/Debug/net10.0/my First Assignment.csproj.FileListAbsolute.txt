@@ -1,0 +1,15 @@
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\bin\Debug\net10.0\my First Assignment.exe
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\bin\Debug\net10.0\my First Assignment.deps.json
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\bin\Debug\net10.0\my First Assignment.runtimeconfig.json
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\bin\Debug\net10.0\my First Assignment.dll
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\bin\Debug\net10.0\my First Assignment.pdb
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.AssemblyInfoInputs.cache
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.AssemblyInfo.cs
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.dll
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\refint\my First Assignment.dll
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.pdb
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First Assignment.genruntimeconfig.cache
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\ref\my First Assignment.dll
+C:\Users\Soubhi\source\repos\my First Assignment\my First Assignment\obj\Debug\net10.0\my First.9E560528.Up2Date
